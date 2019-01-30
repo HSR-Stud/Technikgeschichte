@@ -1,0 +1,187 @@
+\babel@toc {ngerman}{}
+\contentsline {section}{\numberline {1}Allgemein}{4}
+\contentsline {subsection}{\numberline {1.1}Was ist Technik?}{4}
+\contentsline {subsection}{\numberline {1.2}Wieso Technik?}{4}
+\contentsline {subsection}{\numberline {1.3}Was ist Geschichte? Was will Geschichte?}{4}
+\contentsline {subsection}{\numberline {1.4}Grund zur Technik?}{4}
+\contentsline {subsection}{\numberline {1.5}Was n\IeC {\"u}tzt Literatur}{4}
+\contentsline {section}{\numberline {2}Quellenanalyse von Bild- und Textmaterial}{5}
+\contentsline {subsection}{\numberline {2.1}Quellengattungen}{5}
+\contentsline {subsection}{\numberline {2.2}Raster f\IeC {\"u}r Textanalyse}{5}
+\contentsline {subsection}{\numberline {2.3}Epochen in der politischen Geschichte}{6}
+\contentsline {section}{\numberline {3}Technik vor der Industriellen Revolution}{7}
+\contentsline {subsection}{\numberline {3.1}Die ersten Hochkulturen}{7}
+\contentsline {subsection}{\numberline {3.2}Die Antike: Griechenland und Rom}{7}
+\contentsline {subsection}{\numberline {3.3}Das Alte Griechenland}{7}
+\contentsline {subsection}{\numberline {3.4}Rom}{7}
+\contentsline {subsection}{\numberline {3.5}Mittelalter}{7}
+\contentsline {subsubsection}{\numberline {3.5.1}Mittelalter - technische Entwicklung}{7}
+\contentsline {subsubsection}{\numberline {3.5.2}Mittelalter - Zeit der Z\IeC {\"u}nfte}{8}
+\contentsline {subsection}{\numberline {3.6}Renaissance \IeC {\textendash } Zeit des Aufbruchs}{8}
+\contentsline {subsubsection}{\numberline {3.6.1}Neue Bauten, neue Malerei}{8}
+\contentsline {subsection}{\numberline {3.7}Reformation - ab 1517}{8}
+\contentsline {subsubsection}{\numberline {3.7.1}500 Jahre Reformation \IeC {\textendash } Die Aktualit\IeC {\"a}t reformatorischen Denkens}{9}
+\contentsline {subsection}{\numberline {3.8}Ancien Regime \IeC {\textendash } Absolutismus ab 1661}{9}
+\contentsline {section}{\numberline {4}Industrielle Revolution}{10}
+\contentsline {subsection}{\numberline {4.1}Geistige Voraussetzungen}{10}
+\contentsline {subsubsection}{\numberline {4.1.1}Die Aufkl\IeC {\"a}rung}{10}
+\contentsline {subsubsection}{\numberline {4.1.2}Staatstheorie John Locke (1632 - 1704}{10}
+\contentsline {subsubsection}{\numberline {4.1.3}Empirismus John Locke}{10}
+\contentsline {subsubsection}{\numberline {4.1.4}Aufkl\IeC {\"a}rung und Naturwissenschaften}{10}
+\contentsline {subsubsection}{\numberline {4.1.5}Physiokratismus}{10}
+\contentsline {subsubsection}{\numberline {4.1.6}Klassische National\IeC {\"o}konomie}{10}
+\contentsline {subsection}{\numberline {4.2}Bev\IeC {\"o}lkerungswachstum}{11}
+\contentsline {subsection}{\numberline {4.3}Die Agrarrevolution}{11}
+\contentsline {subsection}{\numberline {4.4}Wissenschaftliche Ver\IeC {\"a}nderungen}{11}
+\contentsline {subsection}{\numberline {4.5}Kapital}{11}
+\contentsline {subsection}{\numberline {4.6}Neue Einstellung zur Arbeit}{12}
+\contentsline {subsection}{\numberline {4.7}Industrialisierung: Textilindustrie}{12}
+\contentsline {subsubsection}{\numberline {4.7.1}Die vier Arbeitsschritte bei der Textilherstellung}{12}
+\contentsline {subsubsection}{\numberline {4.7.2}Chronologischer Ablauf der technischen Entwicklung}{12}
+\contentsline {subsection}{\numberline {4.8}Industrialisierung: Grossbritannien}{12}
+\contentsline {subsubsection}{\numberline {4.8.1}Besondere Voraussetzungen}{12}
+\contentsline {subsubsection}{\numberline {4.8.2}Ablauf der Industriellen Revolution in Grossbritannien}{13}
+\contentsline {section}{\numberline {5}Die Zweite industrielle Revolution}{14}
+\contentsline {subsection}{\numberline {5.1}Stahl-, Elektro-, Chemie- und Verkehrs-Industrie}{14}
+\contentsline {subsubsection}{\numberline {5.1.1}Eisen- und Stahlindustrie}{14}
+\contentsline {subsubsection}{\numberline {5.1.2}Elektrotechnische Industrie}{14}
+\contentsline {subsubsection}{\numberline {5.1.3}Chemische Industrie}{14}
+\contentsline {subsubsection}{\numberline {5.1.4}Motorenindustrie und Verkehrswesen}{14}
+\contentsline {subsection}{\numberline {5.2}Die Soziale Frage}{15}
+\contentsline {subsubsection}{\numberline {5.2.1}Die materiellen Arbeitsbedingungen der Arbeiter}{15}
+\contentsline {subsubsection}{\numberline {5.2.2}Die rechtlichen Arbeitsbedingungen der Arbeiter}{15}
+\contentsline {subsubsection}{\numberline {5.2.3}Frauen und Kinderarbeit}{15}
+\contentsline {subsubsection}{\numberline {5.2.4}Wohnsituation}{15}
+\contentsline {subsubsection}{\numberline {5.2.5}Technische Entwicklung f\IeC {\"u}hrt zu einer Verbesserung der Situation der Arbeiter}{15}
+\contentsline {subsection}{\numberline {5.3}L\IeC {\"o}sungen der Sozialen Frage}{16}
+\contentsline {subsubsection}{\numberline {5.3.1}Die Genossenschaftstheorie - Robert Owen (1771-1858)}{16}
+\contentsline {subsubsection}{\numberline {5.3.2}Die Staatssozialistische Theorie - Claude de Saint-Simon (1760 - 1852)}{16}
+\contentsline {subsubsection}{\numberline {5.3.3}Die Anarchistische Theorie - Michael Bakunin (1814-1876)}{16}
+\contentsline {subsubsection}{\numberline {5.3.4}Die Marxistische Theorie - Karl Marx (1760 - 1825)}{16}
+\contentsline {section}{\numberline {6}Wir wollen uns bewegen \IeC {\textendash } Entwicklung der Verkehrsmittel}{18}
+\contentsline {subsection}{\numberline {6.1}Reisen in der Antike und im Mittelalter}{18}
+\contentsline {subsection}{\numberline {6.2}Die Reisen der Entdecker und Forscher}{18}
+\contentsline {subsubsection}{\numberline {6.2.1}Technische Grundlagen f\IeC {\"u}r diese Entdeckungen}{18}
+\contentsline {subsection}{\numberline {6.3}Reisen der Bildungshungrigen}{18}
+\contentsline {subsection}{\numberline {6.4}Die Reisen der Touristen}{18}
+\contentsline {subsection}{\numberline {6.5}Der Massentourismus}{19}
+\contentsline {subsection}{\numberline {6.6}Die Entwicklung der Eisenbahn f\IeC {\"u}r den Personentransport}{19}
+\contentsline {subsubsection}{\numberline {6.6.1}Drei Phasen des Eisenbahnbaus}{19}
+\contentsline {subsubsection}{\numberline {6.6.2}Die Phasen am Beispiel der Schweiz}{19}
+\contentsline {subsubsection}{\numberline {6.6.3}Auswirkungen durch die Eisenbahn}{20}
+\contentsline {subsubsection}{\numberline {6.6.4}Zukunft der Eisenbahn? Probleme? Entwicklungen?}{20}
+\contentsline {subsection}{\numberline {6.7}Die Entwicklung des Automobils}{20}
+\contentsline {subsubsection}{\numberline {6.7.1}Auswirkungen}{20}
+\contentsline {subsubsection}{\numberline {6.7.2}Zuk\IeC {\"u}nftige Verkehrsmittel?}{20}
+\contentsline {subsection}{\numberline {6.8}Vergleich Eisenbahn - Automobil}{21}
+\contentsline {section}{\numberline {7}Wir wollen G\IeC {\"u}ter bewegen \IeC {\textendash } Schifffahrt und Kanalbau}{22}
+\contentsline {subsection}{\numberline {7.1}Allgemein \IeC {\"u}ber den Transport von G\IeC {\"u}tern}{22}
+\contentsline {subsubsection}{\numberline {7.1.1}Mensch oder Tier}{22}
+\contentsline {subsubsection}{\numberline {7.1.2}Nachricht als Gut}{22}
+\contentsline {subsection}{\numberline {7.2}Transport auf dem Wasser}{22}
+\contentsline {subsubsection}{\numberline {7.2.1}Entwicklung der Schifffahrt}{22}
+\contentsline {subsubsection}{\numberline {7.2.2}Wichtige Kan\IeC {\"a}le}{23}
+\contentsline {paragraph}{Panamakanal}{23}
+\contentsline {subsection}{\numberline {7.3}Lufttransport am Beispiel: Berliner Luftbr\IeC {\"u}cke}{23}
+\contentsline {subsubsection}{\numberline {7.3.1}Vorgeschichte}{23}
+\contentsline {subsubsection}{\numberline {7.3.2}Luftkorridor war nicht gesperrt aber:}{24}
+\contentsline {subsubsection}{\numberline {7.3.3}Notwendigkeit einer L\IeC {\"o}sung}{24}
+\contentsline {subsection}{\numberline {7.4}Vergleich See- / Landtransport vor dem 19. Jahrhundert}{24}
+\contentsline {section}{\numberline {8}Lebensmittel}{25}
+\contentsline {subsection}{\numberline {8.1}Wie produzieren wir die Lebensmittel?}{25}
+\contentsline {subsubsection}{\numberline {8.1.1}Weitere Produktivit\IeC {\"a}tserh\IeC {\"o}hung dank Erfindungen und Entdeckungen w\IeC {\"a}hrend der Aufkl\IeC {\"a}rung und der Industrialisierung}{25}
+\contentsline {subsection}{\numberline {8.2}Wie veredeln wir die Lebensmittel?}{25}
+\contentsline {subsection}{\numberline {8.3}Wie verteilen wir die Lebensmittel?}{25}
+\contentsline {subsubsection}{\numberline {8.3.1}Beeinflussung unseres Lebens durch die Migros}{26}
+\contentsline {subsection}{\numberline {8.4}Wie konsumieren wir die Lebensmittel?}{26}
+\contentsline {subsubsection}{\numberline {8.4.1}Beeinflussung durch Else Z\IeC {\"u}blin-Spiller}{26}
+\contentsline {subsection}{\numberline {8.5}Zukunft der Lebensmittelindustrie}{26}
+\contentsline {section}{\numberline {9}Energie \IeC {\textendash } von Muskelkraft zu Atomenergie}{27}
+\contentsline {subsection}{\numberline {9.1}Historischer Abriss der Energienutzung durch den Menschen}{27}
+\contentsline {subsubsection}{\numberline {9.1.1}Erste und bis heute wichtigste Energiequelle ist die Nahrung}{27}
+\contentsline {subsubsection}{\numberline {9.1.2}Zweite Energiequelle des Menschen: Das Feuer}{27}
+\contentsline {subsubsection}{\numberline {9.1.3}Der Mensch braucht W\IeC {\"a}rme und Licht}{27}
+\contentsline {subsection}{\numberline {9.2}Beginn der Landwirtschaft}{27}
+\contentsline {subsection}{\numberline {9.3}Energieformen}{27}
+\contentsline {subsubsection}{\numberline {9.3.1}Wasser- und Windm\IeC {\"u}hlen}{27}
+\contentsline {subsubsection}{\numberline {9.3.2}Kohle}{27}
+\contentsline {subsubsection}{\numberline {9.3.3}Strom}{28}
+\contentsline {subsubsection}{\numberline {9.3.4}Erd\IeC {\"o}l}{28}
+\contentsline {subsubsection}{\numberline {9.3.5}Erdgas}{29}
+\contentsline {subsubsection}{\numberline {9.3.6}Energieverbrauch der Welt}{29}
+\contentsline {subsubsection}{\numberline {9.3.7}Energieverbrauch der Schweiz}{29}
+\contentsline {section}{\numberline {10}Kommunikation}{30}
+\contentsline {subsection}{\numberline {10.1}Warum kommunizieren wir?}{30}
+\contentsline {subsection}{\numberline {10.2}Wie kommunizieren wir?}{30}
+\contentsline {subsection}{\numberline {10.3}Historischer Ablauf der Kommunikationsentwicklung}{30}
+\contentsline {subsubsection}{\numberline {10.3.1}Ber\IeC {\"u}hmte m\IeC {\"u}ndliche Kommunikation}{30}
+\contentsline {subsubsection}{\numberline {10.3.2}Verbale/non verbale Sprache zur Kommunikation}{30}
+\contentsline {subsubsection}{\numberline {10.3.3}Kommunikation mit Bildern}{30}
+\contentsline {subsubsection}{\numberline {10.3.4}\IeC {\"U}bergang von den Bildern auf die Schriftzeichen}{31}
+\contentsline {subsection}{\numberline {10.4}Wieso verwendet der Mensch die Schrift/Schriftzeichen?}{31}
+\contentsline {subsection}{\numberline {10.5}Was sind die Auswirkungen der Verwendung der Schrift?}{31}
+\contentsline {subsection}{\numberline {10.6}Buchdruck}{31}
+\contentsline {subsection}{\numberline {10.7}Telefon}{31}
+\contentsline {subsection}{\numberline {10.8}Internet}{31}
+\contentsline {subsubsection}{\numberline {10.8.1}Auswirkungen des Internets}{31}
+\contentsline {subsubsection}{\numberline {10.8.2}Vorteile}{32}
+\contentsline {subsubsection}{\numberline {10.8.3}Nachteile}{32}
+\contentsline {section}{\numberline {11}Messen \IeC {\textendash } Rechnen}{33}
+\contentsline {subsection}{\numberline {11.1}Messen}{33}
+\contentsline {subsection}{\numberline {11.2}Geld}{33}
+\contentsline {subsubsection}{\numberline {11.2.1}Geschichte des Schweizer Franken}{33}
+\contentsline {subsection}{\numberline {11.3}Verwendete Masseinheiten}{33}
+\contentsline {subsection}{\numberline {11.4}Kalender}{34}
+\contentsline {subsubsection}{\numberline {11.4.1}Kalendersysteme}{34}
+\contentsline {subsubsection}{\numberline {11.4.2}J\IeC {\"u}discher Kalender}{34}
+\contentsline {subsection}{\numberline {11.5}Der Julianische Kalender}{34}
+\contentsline {subsubsection}{\numberline {11.5.1}Der Gregorianische Kalender}{34}
+\contentsline {paragraph}{Bedeutung der Monatsnahmen}{35}
+\contentsline {subsubsection}{\numberline {11.5.2}Islamischer Kalender}{35}
+\contentsline {subsubsection}{\numberline {11.5.3}Weitere Moderne Kalender}{35}
+\contentsline {subsubsection}{\numberline {11.5.4}Masseinheiten der Zeit}{35}
+\contentsline {subsubsection}{\numberline {11.5.5}Zeitzonen}{36}
+\contentsline {subsubsection}{\numberline {11.5.6}Zeit in der Geschichte}{36}
+\contentsline {subsection}{\numberline {11.6}Zeitmessung}{36}
+\contentsline {subsubsection}{\numberline {11.6.1}Geschichte der Messinstrumente, am Beispiel der Uhr}{36}
+\contentsline {subsubsection}{\numberline {11.6.2}Geschichte der Uhr}{36}
+\contentsline {subsubsection}{\numberline {11.6.3}Geschichte der Schweizer Uhrenindustrie}{37}
+\contentsline {subsubsection}{\numberline {11.6.4}Die Schweizer Uhrenindustrie heute}{37}
+\contentsline {subsubsection}{\numberline {11.6.5}Heinrich Moser (1805 - 1874)}{38}
+\contentsline {section}{\numberline {12}Medizin}{39}
+\contentsline {subsection}{\numberline {12.1}Wie entwickelten sich die Kenntnisse \IeC {\"u}ber den menschlichen K\IeC {\"o}rper?}{39}
+\contentsline {subsection}{\numberline {12.2}Bedeutende \IeC {\"A}rzte}{39}
+\contentsline {subsubsection}{\numberline {12.2.1}Hippokrates von Kos (460 \IeC {\textendash } 370)}{39}
+\contentsline {subsubsection}{\numberline {12.2.2}Paracelsus (Bombastus von Hohenheim) (1493 (Egg, SZ) \IeC {\textendash } 1541 (Salzburg))}{40}
+\contentsline {subsubsection}{\numberline {12.2.3}John Snow (1813 \IeC {\textendash } 1858)}{40}
+\contentsline {subsubsection}{\numberline {12.2.4}Wilhelm Conrad R\IeC {\"o}ntgen (1845 \IeC {\textendash } 1923)}{40}
+\contentsline {subsubsection}{\numberline {12.2.5}Alexander Fleming (1881 \IeC {\textendash } 1955)}{40}
+\contentsline {subsubsection}{\numberline {12.2.6}Rolf Zinkernagel (*1944)}{40}
+\contentsline {section}{\numberline {13}Kulturepochen}{41}
+\contentsline {subsection}{\numberline {13.1}Grunds\IeC {\"a}tzliche \IeC {\"U}berlegungen}{41}
+\contentsline {subsubsection}{\numberline {13.1.1}Bed\IeC {\"u}rfnisse - Bauten}{41}
+\contentsline {subsection}{\numberline {13.2}Die verschiedenen Kulturepochen \IeC {\textendash } Bauten}{41}
+\contentsline {subsubsection}{\numberline {13.2.1}750-1250 Romanisch}{41}
+\contentsline {subsubsection}{\numberline {13.2.2}1130-1500 Gotik}{41}
+\contentsline {subsubsection}{\numberline {13.2.3}1420-1620 Renaissance}{42}
+\contentsline {subsubsection}{\numberline {13.2.4}1600-1780 Barock/Rokoko}{42}
+\contentsline {subsubsection}{\numberline {13.2.5}1750-1840 Klassizismus}{42}
+\contentsline {subsubsection}{\numberline {13.2.6}1840-1900 Historismus (Ingenieur-Architektur)}{42}
+\contentsline {subsubsection}{\numberline {13.2.7}1900- 1950 Jugendstil/Futurismus/Kubismus/Bauhaus}{43}
+\contentsline {subsubsection}{\numberline {13.2.8}Ab 1950 Postmoderne}{43}
+\contentsline {subsection}{\numberline {13.3}Wichtige Schweizer Architekten}{43}
+\contentsline {subsubsection}{\numberline {13.3.1}Le Corbusier (Charles-Edouard Jeanneret-Gris) (1887- 1965)}{43}
+\contentsline {subsubsection}{\numberline {13.3.2}Mario Botta (*1943)}{43}
+\contentsline {subsubsection}{\numberline {13.3.3}Jacques Herzog (*1950) und Pierre de Meuron (*1950)}{44}
+\contentsline {subsubsection}{\numberline {13.3.4}Peter Zumthor (*1943)}{44}
+\contentsline {subsection}{\numberline {13.4}Die verschiedenen Kulturepochen \IeC {\textendash } Kleidung}{44}
+\contentsline {section}{\numberline {14}Technische Entwicklung in der Schweiz}{45}
+\contentsline {subsection}{\numberline {14.1}R\IeC {\"o}mische Zeit}{45}
+\contentsline {subsection}{\numberline {14.2}Mittelalter}{45}
+\contentsline {subsubsection}{\numberline {14.2.1}Gotthardpass}{45}
+\contentsline {subsubsection}{\numberline {14.2.2}Halbarte}{45}
+\contentsline {subsection}{\numberline {14.3}Zeit der Renaissance und der Aufkl\IeC {\"a}rung}{45}
+\contentsline {subsection}{\numberline {14.4}Ab 1804 erste Versuche zur Industrialisierung}{45}
+\contentsline {subsubsection}{\numberline {14.4.1}Industrialisierung in der Schweiz}{45}
+\contentsline {subsubsection}{\numberline {14.4.2}Nahrungsindustrie}{46}
+\contentsline {subsubsection}{\numberline {14.4.3}Soziale Frage (siehe 5.2)}{46}
